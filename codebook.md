@@ -1,14 +1,17 @@
 
-*CookBook*
+**CookBook**
 
+ 
  Input Data
 
 The script assumes the UCI dataset is extracted into the current working directory
 
+ 
  Output Data
 
 The resulting ./UCI HAR Dataset/tidy_data.txt dataset includes mean and standard deviation variables for all the original variables including either mean or std in their original names.
 
+ 
  Transformations
 
 The script, run_analysis.R, does the following,
